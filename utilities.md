@@ -5,6 +5,7 @@
 `nslookup` is a DNS lookup utility
 ### dig
 `dig` is a DNS lookup utility
+### whois
 
 # Transport Layer (TCP, UDP)
 `tcpdump` 
